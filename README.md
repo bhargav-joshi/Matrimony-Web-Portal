@@ -1,3 +1,4 @@
+![](https://github.com/bhargav-joshi/Vivah.com-Matrimony-Portal/blob/main/images/logo.png?raw=true)
 # Vivah.com - Matrimony-Portal
 ### A Matrimony Portal for which will help members find their perfect life partner.
 
