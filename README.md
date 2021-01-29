@@ -31,3 +31,11 @@ hardware and software tools to users over the internet.
 - Php 
 - MySQL 
 
+## What User can do ?
+- Search by ID
+- Direct Search
+- Sign in 
+- Create Account
+- Matchrightting
+- Edit profile & photos
+- View Profile
